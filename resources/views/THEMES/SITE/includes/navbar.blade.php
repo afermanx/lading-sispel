@@ -51,9 +51,9 @@
                 </a>
             </span>
             <span class="fa-stack">
-                <a href="#your-link">
+                <a href="">
                     <i class="fas fa-circle fa-stack-2x twitter"></i>
-                    <i class="fab fa-twitter fa-stack-1x"></i>
+                    <i class="fab fa-instagram fa-stack-1x"></i>
                 </a>
             </span>
         </span>

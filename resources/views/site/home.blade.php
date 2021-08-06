@@ -5,15 +5,12 @@
 @include('site.pages.about')
 @include('site.pages.soluction')
 @include('site.pages.contact')
-
-
-
     <!-- Customers -->
     <div class="slider-1">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h5>Trusted By</h5>
+                    <h5>Aprovado por</h5>
 
                     <!-- Image Slider -->
                     <div class="slider-container">
